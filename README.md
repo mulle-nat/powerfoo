@@ -1,0 +1,2 @@
+# powerfoo
+Example repository
