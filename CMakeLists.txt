@@ -2,7 +2,7 @@ cmake_minimum_required (VERSION 3.0)
 
 project (powerfoo)
 
-include_directories( dependencies/include)
+include_directories( $(DEPENDENCIES_DIR)/include)
 
 
 add_library( powerfoo
