@@ -1,4 +1,4 @@
-#include <foo/foo.h>
+#include <foo.h>
 
 
 int  powerfoo_version()

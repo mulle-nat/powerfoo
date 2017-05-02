@@ -62,3 +62,6 @@ iOSInjectionProject/
 .bootstrap.local/
 dependencies/
 .repos/
+/addictions
+/.bootstrap.repos
+/stashes
